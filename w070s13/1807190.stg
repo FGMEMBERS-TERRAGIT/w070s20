@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Airport/ils.xml -69.228417 -12.626667 213.5 358.88
+OBJECT_SHARED Models/Communications/vordme_1.xml -69.228333 -12.626667 213.66 180
+OBJECT_SHARED Models/Airport/marker.ac -69.230017 -12.640133 213.36 180
